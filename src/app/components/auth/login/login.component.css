@@ -1,0 +1,28 @@
+.myBackground{
+    position:absolute;
+    background-image: url('https://www.freevector.com/uploads/vector/preview/31305/Revision_Freevector_School-Stationary_Background_Mf0421-01.jpg');
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.myForm{
+    width: 60vw;
+    margin: auto auto;
+    margin-top: 15vh;
+    background-color: rgba(143, 212, 240, 0.8);
+}
+
+.myLogo{
+    width: 500px;
+    height: 340px;
+}
+
+.inputForm{
+    width: 50%;
+}
+
+.insideForm{
+    background-color: orange;
+}
